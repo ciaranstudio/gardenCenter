@@ -1,1 +1,1 @@
-Driving physics exercise (study for future game). Combination of grass shader example (github.com/pmndrs) and raycast vehicle example (github.com/isaac-mason). Added Zustand for game store, van model by Kenney and mobile joystick controls (pmndrs/ecctrl).
+Driving physics exercise as proposal for art game. Combination of grass shader example and raycast vehicle example projects by Isaac Mason (github.com/isaac-mason). Added Zustand for the game store, replaced the car with a van model by Kenney and connected mobile joystick controls (github.com/pmndrs/ecctrl).
